@@ -1,0 +1,210 @@
+year,round,race_name,circuit,split,model_hits,baseline_hits,model_picks,baseline_picks,actual_podium,model_name,feature_set
+2017,1,Australian Grand Prix,albert_park,validation,3,3,"HAM, VET, BOT","HAM, VET, BOT","VET, HAM, BOT",logistic elastic net,base+elo
+2017,2,Chinese Grand Prix,shanghai,validation,2,2,"HAM, VET, BOT","HAM, VET, BOT","HAM, VET, VER",logistic elastic net,base+elo
+2017,3,Bahrain Grand Prix,bahrain,validation,3,3,"HAM, BOT, VET","BOT, HAM, VET","VET, HAM, BOT",logistic elastic net,base+elo
+2017,4,Russian Grand Prix,sochi,validation,2,3,"VET, HAM, BOT","VET, RAI, BOT","BOT, VET, RAI",logistic elastic net,base+elo
+2017,5,Spanish Grand Prix,catalunya,validation,2,2,"HAM, VET, BOT","HAM, VET, BOT","HAM, VET, RIC",logistic elastic net,base+elo
+2017,6,Monaco Grand Prix,monaco,validation,2,2,"RAI, VET, BOT","RAI, VET, BOT","VET, RAI, RIC",logistic elastic net,base+elo
+2017,7,Canadian Grand Prix,villeneuve,validation,2,2,"HAM, VET, BOT","HAM, VET, BOT","HAM, BOT, RIC",logistic elastic net,base+elo
+2017,8,Azerbaijan Grand Prix,baku,validation,1,1,"HAM, BOT, VET","HAM, BOT, RAI","RIC, BOT, STR",logistic elastic net,base+elo
+2017,9,Austrian Grand Prix,red_bull_ring,validation,2,2,"BOT, HAM, VET","BOT, VET, HAM","BOT, VET, RIC",logistic elastic net,base+elo
+2017,10,British Grand Prix,silverstone,validation,2,2,"HAM, VET, BOT","HAM, RAI, VET","HAM, BOT, RAI",logistic elastic net,base+elo
+2017,11,Hungarian Grand Prix,hungaroring,validation,2,3,"VET, BOT, HAM","VET, RAI, BOT","VET, RAI, BOT",logistic elastic net,base+elo
+2017,12,Belgian Grand Prix,spa,validation,2,2,"HAM, BOT, VET","HAM, VET, BOT","HAM, VET, RIC",logistic elastic net,base+elo
+2017,13,Italian Grand Prix,monza,validation,2,1,"HAM, BOT, RIC","HAM, VER, RIC","HAM, BOT, VET",logistic elastic net,base+elo
+2017,14,Singapore Grand Prix,marina_bay,validation,1,1,"VET, HAM, RAI","VET, VER, RIC","HAM, RIC, BOT",logistic elastic net,base+elo
+2017,15,Malaysian Grand Prix,sepang,validation,1,2,"HAM, BOT, RAI","HAM, RAI, VER","VER, HAM, RIC",logistic elastic net,base+elo
+2017,16,Japanese Grand Prix,suzuka,validation,1,1,"HAM, BOT, VET","HAM, BOT, VET","HAM, VER, RIC",logistic elastic net,base+elo
+2017,17,United States Grand Prix,americas,validation,1,2,"HAM, BOT, RIC","HAM, VET, BOT","HAM, VET, RAI",logistic elastic net,base+elo
+2017,18,Mexican Grand Prix,rodriguez,validation,1,1,"HAM, VET, BOT","VET, VER, HAM","VER, BOT, RAI",logistic elastic net,base+elo
+2017,19,Brazilian Grand Prix,interlagos,validation,2,3,"BOT, VET, VER","BOT, VET, RAI","VET, BOT, RAI",logistic elastic net,base+elo
+2017,20,Abu Dhabi Grand Prix,yas_marina,validation,3,3,"BOT, HAM, VET","BOT, HAM, VET","BOT, HAM, VET",logistic elastic net,base+elo
+2018,1,Australian Grand Prix,albert_park,validation,3,3,"HAM, RAI, VET","HAM, RAI, VET","VET, HAM, RAI",logistic elastic net,base+elo
+2018,2,Bahrain Grand Prix,bahrain,validation,2,2,"VET, RAI, BOT","VET, RAI, BOT","VET, BOT, HAM",logistic elastic net,base+elo
+2018,3,Chinese Grand Prix,shanghai,validation,1,2,"VET, BOT, HAM","VET, RAI, BOT","RIC, BOT, RAI",logistic elastic net,base+elo
+2018,4,Azerbaijan Grand Prix,baku,validation,1,1,"VET, HAM, BOT","VET, HAM, BOT","HAM, RAI, PER",logistic elastic net,base+elo
+2018,5,Spanish Grand Prix,catalunya,validation,2,2,"HAM, BOT, VET","HAM, BOT, VET","HAM, BOT, VER",logistic elastic net,base+elo
+2018,6,Monaco Grand Prix,monaco,validation,3,3,"HAM, VET, RIC","RIC, VET, HAM","RIC, VET, HAM",logistic elastic net,base+elo
+2018,7,Canadian Grand Prix,villeneuve,validation,2,3,"VET, BOT, HAM","VET, BOT, VER","VET, BOT, VER",logistic elastic net,base+elo
+2018,8,French Grand Prix,ricard,validation,1,1,"HAM, BOT, VET","HAM, BOT, VET","HAM, VER, RAI",logistic elastic net,base+elo
+2018,9,Austrian Grand Prix,red_bull_ring,validation,1,1,"BOT, HAM, VET","BOT, HAM, VET","VER, RAI, VET",logistic elastic net,base+elo
+2018,10,British Grand Prix,silverstone,validation,3,3,"HAM, VET, RAI","HAM, VET, RAI","VET, HAM, RAI",logistic elastic net,base+elo
+2018,11,German Grand Prix,hockenheimring,validation,2,2,"VET, BOT, RAI","VET, BOT, RAI","HAM, BOT, RAI",logistic elastic net,base+elo
+2018,12,Hungarian Grand Prix,hungaroring,validation,2,2,"HAM, BOT, RAI","HAM, BOT, RAI","HAM, VET, RAI",logistic elastic net,base+elo
+2018,13,Belgian Grand Prix,spa,validation,2,2,"HAM, VET, RAI","HAM, VET, OCO","VET, HAM, VER",logistic elastic net,base+elo
+2018,14,Italian Grand Prix,monza,validation,2,2,"RAI, VET, HAM","RAI, VET, HAM","HAM, RAI, BOT",logistic elastic net,base+elo
+2018,15,Singapore Grand Prix,marina_bay,validation,2,3,"HAM, VET, BOT","HAM, VER, VET","HAM, VER, VET",logistic elastic net,base+elo
+2018,16,Russian Grand Prix,sochi,validation,3,3,"BOT, HAM, VET","BOT, HAM, VET","HAM, BOT, VET",logistic elastic net,base+elo
+2018,17,Japanese Grand Prix,suzuka,validation,2,3,"HAM, BOT, RAI","HAM, BOT, VER","HAM, BOT, VER",logistic elastic net,base+elo
+2018,18,United States Grand Prix,americas,validation,1,2,"HAM, VET, BOT","HAM, VET, RAI","RAI, VER, HAM",logistic elastic net,base+elo
+2018,19,Mexican Grand Prix,rodriguez,validation,1,1,"HAM, RIC, VER","RIC, VER, HAM","VER, VET, RAI",logistic elastic net,base+elo
+2018,20,Brazilian Grand Prix,interlagos,validation,1,1,"HAM, VET, BOT","HAM, VET, BOT","HAM, VER, RAI",logistic elastic net,base+elo
+2018,21,Abu Dhabi Grand Prix,yas_marina,validation,2,2,"HAM, BOT, VET","HAM, BOT, VET","HAM, VET, VER",logistic elastic net,base+elo
+2019,1,Australian Grand Prix,albert_park,validation,2,2,"HAM, BOT, VET","HAM, BOT, VET","BOT, HAM, VER",logistic elastic net,base+elo
+2019,2,Bahrain Grand Prix,bahrain,validation,2,2,"HAM, VET, BOT","LEC, VET, HAM","HAM, BOT, LEC",logistic elastic net,base+elo
+2019,3,Chinese Grand Prix,shanghai,validation,3,3,"BOT, HAM, VET","BOT, HAM, VET","HAM, BOT, VET",logistic elastic net,base+elo
+2019,4,Azerbaijan Grand Prix,baku,validation,3,3,"BOT, HAM, VET","BOT, HAM, VET","BOT, HAM, VET",logistic elastic net,base+elo
+2019,5,Spanish Grand Prix,catalunya,validation,2,2,"BOT, HAM, VET","BOT, HAM, VET","HAM, BOT, VER",logistic elastic net,base+elo
+2019,6,Monaco Grand Prix,monaco,validation,3,2,"HAM, BOT, VET","HAM, BOT, VER","HAM, VET, BOT",logistic elastic net,base+elo
+2019,7,Canadian Grand Prix,villeneuve,validation,2,3,"VET, HAM, BOT","VET, HAM, LEC","HAM, VET, LEC",logistic elastic net,base+elo
+2019,8,French Grand Prix,ricard,validation,2,3,"HAM, BOT, VER","HAM, BOT, LEC","HAM, BOT, LEC",logistic elastic net,base+elo
+2019,9,Austrian Grand Prix,red_bull_ring,validation,2,2,"HAM, BOT, LEC","LEC, HAM, VER","VER, LEC, BOT",logistic elastic net,base+elo
+2019,10,British Grand Prix,silverstone,validation,2,3,"BOT, HAM, VER","BOT, HAM, LEC","HAM, BOT, LEC",logistic elastic net,base+elo
+2019,11,German Grand Prix,hockenheimring,validation,1,1,"HAM, BOT, VER","HAM, VER, BOT","VER, VET, KVY",logistic elastic net,base+elo
+2019,12,Hungarian Grand Prix,hungaroring,validation,2,2,"VER, HAM, BOT","VER, BOT, HAM","HAM, VER, VET",logistic elastic net,base+elo
+2019,13,Belgian Grand Prix,spa,validation,2,2,"HAM, LEC, VET","LEC, VET, HAM","LEC, HAM, BOT",logistic elastic net,base+elo
+2019,14,Italian Grand Prix,monza,validation,3,3,"HAM, LEC, BOT","LEC, HAM, BOT","LEC, BOT, HAM",logistic elastic net,base+elo
+2019,15,Singapore Grand Prix,marina_bay,validation,2,2,"HAM, LEC, VET","LEC, HAM, VET","VET, LEC, VER",logistic elastic net,base+elo
+2019,16,Russian Grand Prix,sochi,validation,2,2,"HAM, LEC, VET","LEC, HAM, VET","HAM, BOT, LEC",logistic elastic net,base+elo
+2019,17,Japanese Grand Prix,suzuka,validation,3,2,"VET, HAM, BOT","VET, LEC, BOT","BOT, VET, HAM",logistic elastic net,base+elo
+2019,18,Mexican Grand Prix,rodriguez,validation,1,1,"HAM, VER, LEC","VER, LEC, VET","HAM, VET, BOT",logistic elastic net,base+elo
+2019,19,United States Grand Prix,americas,validation,2,2,"BOT, VET, HAM","BOT, VET, VER","BOT, HAM, VER",logistic elastic net,base+elo
+2019,20,Brazilian Grand Prix,interlagos,validation,1,1,"HAM, VER, VET","VER, VET, HAM","VER, GAS, SAI",logistic elastic net,base+elo
+2019,21,Abu Dhabi Grand Prix,yas_marina,validation,2,2,"HAM, BOT, VER","HAM, BOT, VER","HAM, VER, LEC",logistic elastic net,base+elo
+2020,1,Austrian Grand Prix,red_bull_ring,validation,1,1,"BOT, HAM, VER","BOT, HAM, VER","BOT, LEC, NOR",logistic elastic net,base+elo
+2020,2,Styrian Grand Prix,red_bull_ring,validation,3,2,"HAM, BOT, VER","HAM, VER, SAI","HAM, BOT, VER",logistic elastic net,base+elo
+2020,3,Hungarian Grand Prix,hungaroring,validation,3,2,"HAM, BOT, VER","HAM, BOT, STR","HAM, VER, BOT",logistic elastic net,base+elo
+2020,4,British Grand Prix,silverstone,validation,2,2,"HAM, BOT, VER","HAM, BOT, VER","HAM, VER, LEC",logistic elastic net,base+elo
+2020,5,70th Anniversary Grand Prix,silverstone,validation,3,2,"BOT, HAM, VER","BOT, HAM, HUL","VER, HAM, BOT",logistic elastic net,base+elo
+2020,6,Spanish Grand Prix,catalunya,validation,3,3,"HAM, BOT, VER","HAM, BOT, VER","HAM, VER, BOT",logistic elastic net,base+elo
+2020,7,Belgian Grand Prix,spa,validation,3,3,"HAM, BOT, VER","HAM, BOT, VER","HAM, BOT, VER",logistic elastic net,base+elo
+2020,8,Italian Grand Prix,monza,validation,0,1,"HAM, BOT, VER","HAM, BOT, SAI","GAS, SAI, STR",logistic elastic net,base+elo
+2020,9,Tuscan Grand Prix,mugello,validation,2,2,"HAM, BOT, VER","HAM, BOT, VER","HAM, BOT, ALB",logistic elastic net,base+elo
+2020,10,Russian Grand Prix,sochi,validation,3,3,"HAM, BOT, VER","HAM, VER, BOT","BOT, VER, HAM",logistic elastic net,base+elo
+2020,11,Eifel Grand Prix,nurburgring,validation,2,2,"BOT, HAM, VER","BOT, HAM, VER","HAM, VER, RIC",logistic elastic net,base+elo
+2020,12,Portuguese Grand Prix,portimao,validation,3,3,"HAM, BOT, VER","HAM, BOT, VER","HAM, BOT, VER",logistic elastic net,base+elo
+2020,13,Emilia Romagna Grand Prix,imola,validation,2,2,"BOT, HAM, VER","BOT, HAM, VER","HAM, BOT, RIC",logistic elastic net,base+elo
+2020,14,Turkish Grand Prix,istanbul,validation,1,1,"HAM, VER, BOT","STR, VER, PER","HAM, PER, VET",logistic elastic net,base+elo
+2020,15,Bahrain Grand Prix,bahrain,validation,2,2,"HAM, BOT, VER","HAM, BOT, VER","HAM, VER, ALB",logistic elastic net,base+elo
+2020,16,Sakhir Grand Prix,bahrain,validation,0,0,"BOT, VER, LEC","BOT, RUS, VER","PER, OCO, STR",logistic elastic net,base+elo
+2020,17,Abu Dhabi Grand Prix,yas_marina,validation,3,3,"HAM, BOT, VER","VER, BOT, HAM","VER, BOT, HAM",logistic elastic net,base+elo
+2021,1,Bahrain Grand Prix,bahrain,validation,3,3,"HAM, VER, BOT","VER, HAM, BOT","HAM, VER, BOT",logistic elastic net,base+elo
+2021,2,Emilia Romagna Grand Prix,imola,validation,2,2,"HAM, VER, PER","HAM, PER, VER","VER, HAM, NOR",logistic elastic net,base+elo
+2021,3,Portuguese Grand Prix,portimao,validation,3,3,"BOT, HAM, VER","BOT, HAM, VER","HAM, VER, BOT",logistic elastic net,base+elo
+2021,4,Spanish Grand Prix,catalunya,validation,3,3,"HAM, VER, BOT","HAM, VER, BOT","HAM, VER, BOT",logistic elastic net,base+elo
+2021,5,Monaco Grand Prix,monaco,validation,1,1,"VER, LEC, BOT","LEC, VER, BOT","VER, SAI, NOR",logistic elastic net,base+elo
+2021,6,Azerbaijan Grand Prix,baku,validation,0,0,"HAM, VER, LEC","LEC, HAM, VER","PER, VET, GAS",logistic elastic net,base+elo
+2021,7,French Grand Prix,ricard,validation,2,2,"VER, HAM, BOT","VER, HAM, BOT","VER, HAM, PER",logistic elastic net,base+elo
+2021,8,Styrian Grand Prix,red_bull_ring,validation,3,3,"VER, HAM, BOT","VER, BOT, HAM","VER, HAM, BOT",logistic elastic net,base+elo
+2021,9,Austrian Grand Prix,red_bull_ring,validation,1,2,"VER, HAM, PER","VER, NOR, PER","VER, BOT, NOR",logistic elastic net,base+elo
+2021,10,British Grand Prix,silverstone,validation,2,2,"HAM, VER, BOT","HAM, VER, BOT","HAM, LEC, BOT",logistic elastic net,base+elo
+2021,11,Hungarian Grand Prix,hungaroring,validation,1,1,"HAM, BOT, VER","HAM, BOT, VER","OCO, HAM, SAI",logistic elastic net,base+elo
+2021,12,Belgian Grand Prix,spa,validation,2,3,"VER, HAM, BOT","VER, RUS, HAM","VER, RUS, HAM",logistic elastic net,base+elo
+2021,13,Dutch Grand Prix,zandvoort,validation,3,3,"HAM, VER, BOT","VER, HAM, BOT","VER, HAM, BOT",logistic elastic net,base+elo
+2021,14,Italian Grand Prix,monza,validation,1,1,"BOT, HAM, VER","BOT, HAM, VER","RIC, NOR, BOT",logistic elastic net,base+elo
+2021,15,Russian Grand Prix,sochi,validation,2,1,"HAM, NOR, SAI","NOR, SAI, RUS","HAM, VER, SAI",logistic elastic net,base+elo
+2021,16,Turkish Grand Prix,istanbul,validation,2,2,"HAM, BOT, VER","HAM, BOT, VER","BOT, VER, PER",logistic elastic net,base+elo
+2021,17,United States Grand Prix,americas,validation,2,3,"VER, HAM, BOT","VER, HAM, PER","VER, HAM, PER",logistic elastic net,base+elo
+2021,18,Mexico City Grand Prix,rodriguez,validation,2,2,"BOT, HAM, VER","BOT, HAM, VER","VER, HAM, PER",logistic elastic net,base+elo
+2021,19,São Paulo Grand Prix,interlagos,validation,3,3,"HAM, VER, BOT","HAM, VER, BOT","HAM, VER, BOT",logistic elastic net,base+elo
+2021,20,Qatar Grand Prix,losail,validation,2,2,"HAM, VER, BOT","HAM, VER, BOT","HAM, VER, ALO",logistic elastic net,base+elo
+2021,21,Saudi Arabian Grand Prix,jeddah,validation,3,3,"HAM, BOT, VER","HAM, BOT, VER","HAM, VER, BOT",logistic elastic net,base+elo
+2021,22,Abu Dhabi Grand Prix,yas_marina,validation,2,2,"VER, HAM, PER","VER, HAM, NOR","VER, HAM, SAI",logistic elastic net,base+elo
+2022,1,Bahrain Grand Prix,bahrain,validation,2,2,"VER, LEC, HAM","LEC, VER, SAI","LEC, SAI, HAM",logistic elastic net,base+elo
+2022,2,Saudi Arabian Grand Prix,jeddah,validation,2,2,"PER, VER, LEC","PER, LEC, SAI","VER, LEC, SAI",logistic elastic net,base+elo
+2022,3,Australian Grand Prix,albert_park,validation,1,2,"LEC, VER, HAM","LEC, VER, PER","LEC, PER, RUS",logistic elastic net,base+elo
+2022,4,Emilia Romagna Grand Prix,imola,validation,2,2,"VER, LEC, NOR","VER, LEC, NOR","VER, PER, NOR",logistic elastic net,base+elo
+2022,5,Miami Grand Prix,miami,validation,2,3,"LEC, VER, HAM","LEC, SAI, VER","VER, LEC, SAI",logistic elastic net,base+elo
+2022,6,Spanish Grand Prix,catalunya,validation,1,1,"LEC, VER, HAM","LEC, VER, SAI","VER, PER, RUS",logistic elastic net,base+elo
+2022,7,Monaco Grand Prix,monaco,validation,2,2,"LEC, VER, PER","LEC, SAI, PER","PER, SAI, VER",logistic elastic net,base+elo
+2022,8,Azerbaijan Grand Prix,baku,validation,2,2,"LEC, VER, PER","LEC, PER, VER","VER, PER, RUS",logistic elastic net,base+elo
+2022,9,Canadian Grand Prix,villeneuve,validation,3,2,"VER, HAM, SAI","VER, ALO, SAI","VER, SAI, HAM",logistic elastic net,base+elo
+2022,10,British Grand Prix,silverstone,validation,2,1,"VER, SAI, HAM","SAI, VER, LEC","SAI, PER, HAM",logistic elastic net,base+elo
+2022,11,Austrian Grand Prix,red_bull_ring,validation,2,2,"VER, LEC, SAI","VER, LEC, SAI","LEC, VER, HAM",logistic elastic net,base+elo
+2022,12,French Grand Prix,ricard,validation,2,1,"LEC, VER, HAM","LEC, VER, PER","VER, HAM, RUS",logistic elastic net,base+elo
+2022,13,Hungarian Grand Prix,hungaroring,validation,2,1,"RUS, SAI, HAM","RUS, SAI, LEC","VER, HAM, RUS",logistic elastic net,base+elo
+2022,14,Belgian Grand Prix,spa,validation,3,3,"VER, PER, SAI","VER, SAI, PER","VER, PER, SAI",logistic elastic net,base+elo
+2022,15,Dutch Grand Prix,zandvoort,validation,2,2,"VER, HAM, LEC","VER, LEC, SAI","VER, RUS, LEC",logistic elastic net,base+elo
+2022,16,Italian Grand Prix,monza,validation,2,2,"VER, LEC, HAM","LEC, VER, SAI","VER, LEC, RUS",logistic elastic net,base+elo
+2022,17,Singapore Grand Prix,marina_bay,validation,2,2,"LEC, PER, HAM","LEC, PER, HAM","PER, LEC, SAI",logistic elastic net,base+elo
+2022,18,Japanese Grand Prix,suzuka,validation,3,2,"VER, LEC, PER","VER, LEC, SAI","VER, PER, LEC",logistic elastic net,base+elo
+2022,19,United States Grand Prix,americas,validation,2,2,"VER, SAI, LEC","SAI, LEC, VER","VER, HAM, LEC",logistic elastic net,base+elo
+2022,20,Mexico City Grand Prix,rodriguez,validation,3,2,"VER, HAM, PER","VER, RUS, HAM","VER, HAM, PER",logistic elastic net,base+elo
+2022,21,São Paulo Grand Prix,interlagos,validation,2,1,"VER, RUS, HAM","MAG, VER, RUS","RUS, HAM, SAI",logistic elastic net,base+elo
+2022,22,Abu Dhabi Grand Prix,yas_marina,validation,2,3,"VER, PER, HAM","VER, PER, LEC","VER, LEC, PER",logistic elastic net,base+elo
+2023,1,Bahrain Grand Prix,bahrain,validation,2,2,"VER, PER, LEC","VER, PER, LEC","VER, PER, ALO",logistic elastic net,base+elo
+2023,2,Saudi Arabian Grand Prix,jeddah,validation,1,2,"PER, LEC, RUS","PER, LEC, ALO","PER, VER, ALO",logistic elastic net,base+elo
+2023,3,Australian Grand Prix,albert_park,validation,2,2,"VER, HAM, RUS","VER, RUS, HAM","VER, HAM, ALO",logistic elastic net,base+elo
+2023,4,Azerbaijan Grand Prix,baku,validation,3,3,"VER, PER, LEC","LEC, VER, PER","PER, VER, LEC",logistic elastic net,base+elo
+2023,5,Miami Grand Prix,miami,validation,2,2,"PER, SAI, VER","PER, ALO, SAI","VER, PER, ALO",logistic elastic net,base+elo
+2023,6,Monaco Grand Prix,monaco,validation,2,2,"VER, LEC, ALO","VER, ALO, LEC","VER, ALO, OCO",logistic elastic net,base+elo
+2023,7,Spanish Grand Prix,catalunya,validation,2,1,"VER, SAI, HAM","VER, SAI, NOR","VER, HAM, RUS",logistic elastic net,base+elo
+2023,8,Canadian Grand Prix,villeneuve,validation,3,2,"VER, HAM, ALO","VER, HUL, ALO","VER, ALO, HAM",logistic elastic net,base+elo
+2023,9,Austrian Grand Prix,red_bull_ring,validation,2,2,"VER, LEC, SAI","VER, LEC, SAI","VER, LEC, PER",logistic elastic net,base+elo
+2023,10,British Grand Prix,silverstone,validation,1,2,"VER, LEC, SAI","VER, NOR, PIA","VER, NOR, HAM",logistic elastic net,base+elo
+2023,11,Hungarian Grand Prix,hungaroring,validation,2,2,"VER, HAM, PER","HAM, VER, NOR","VER, NOR, PER",logistic elastic net,base+elo
+2023,12,Belgian Grand Prix,spa,validation,2,3,"VER, PER, HAM","VER, LEC, PER","VER, PER, LEC",logistic elastic net,base+elo
+2023,13,Dutch Grand Prix,zandvoort,validation,1,1,"VER, PER, RUS","VER, NOR, RUS","VER, ALO, GAS",logistic elastic net,base+elo
+2023,14,Italian Grand Prix,monza,validation,3,2,"VER, SAI, PER","SAI, VER, LEC","VER, PER, SAI",logistic elastic net,base+elo
+2023,15,Singapore Grand Prix,marina_bay,validation,2,1,"SAI, RUS, HAM","SAI, RUS, LEC","SAI, NOR, HAM",logistic elastic net,base+elo
+2023,16,Japanese Grand Prix,suzuka,validation,1,3,"VER, PER, LEC","VER, PIA, NOR","VER, NOR, PIA",logistic elastic net,base+elo
+2023,17,Qatar Grand Prix,losail,validation,1,1,"VER, HAM, RUS","VER, RUS, HAM","VER, PIA, NOR",logistic elastic net,base+elo
+2023,18,United States Grand Prix,americas,validation,2,1,"LEC, VER, NOR","LEC, NOR, HAM","VER, NOR, SAI",logistic elastic net,base+elo
+2023,19,Mexico City Grand Prix,rodriguez,validation,2,2,"VER, LEC, SAI","LEC, SAI, VER","VER, HAM, LEC",logistic elastic net,base+elo
+2023,20,São Paulo Grand Prix,interlagos,validation,1,1,"VER, LEC, HAM","VER, LEC, STR","VER, NOR, ALO",logistic elastic net,base+elo
+2023,21,Las Vegas Grand Prix,vegas,validation,2,2,"VER, LEC, SAI","LEC, SAI, VER","VER, LEC, PER",logistic elastic net,base+elo
+2023,22,Abu Dhabi Grand Prix,yas_marina,validation,2,2,"VER, LEC, PER","VER, LEC, PIA","VER, LEC, RUS",logistic elastic net,base+elo
+2024,1,Bahrain Grand Prix,bahrain,validation,2,1,"VER, PER, LEC","VER, LEC, RUS","VER, PER, SAI",logistic elastic net,base+elo
+2024,2,Saudi Arabian Grand Prix,jeddah,validation,3,3,"VER, PER, LEC","VER, LEC, PER","VER, PER, LEC",logistic elastic net,base+elo
+2024,3,Australian Grand Prix,albert_park,validation,1,1,"VER, PER, SAI","VER, SAI, PER","SAI, LEC, NOR",logistic elastic net,base+elo
+2024,4,Japanese Grand Prix,suzuka,validation,3,2,"VER, PER, SAI","VER, PER, NOR","VER, PER, SAI",logistic elastic net,base+elo
+2024,5,Chinese Grand Prix,shanghai,validation,3,2,"VER, PER, NOR","VER, PER, ALO","VER, NOR, PER",logistic elastic net,base+elo
+2024,6,Miami Grand Prix,miami,validation,2,2,"VER, LEC, PER","VER, LEC, SAI","NOR, VER, LEC",logistic elastic net,base+elo
+2024,7,Emilia Romagna Grand Prix,imola,validation,3,2,"VER, LEC, NOR","VER, PIA, NOR","VER, NOR, LEC",logistic elastic net,base+elo
+2024,8,Monaco Grand Prix,monaco,validation,2,3,"LEC, SAI, VER","LEC, PIA, SAI","LEC, PIA, SAI",logistic elastic net,base+elo
+2024,9,Canadian Grand Prix,villeneuve,validation,3,3,"VER, RUS, NOR","RUS, VER, NOR","VER, NOR, RUS",logistic elastic net,base+elo
+2024,10,Spanish Grand Prix,catalunya,validation,3,3,"NOR, VER, HAM","NOR, VER, HAM","VER, NOR, HAM",logistic elastic net,base+elo
+2024,11,Austrian Grand Prix,red_bull_ring,validation,1,1,"VER, NOR, RUS","VER, NOR, RUS","RUS, PIA, SAI",logistic elastic net,base+elo
+2024,12,British Grand Prix,silverstone,validation,2,2,"RUS, VER, HAM","RUS, HAM, NOR","HAM, VER, NOR",logistic elastic net,base+elo
+2024,13,Hungarian Grand Prix,hungaroring,validation,2,2,"NOR, VER, PIA","NOR, PIA, VER","PIA, NOR, HAM",logistic elastic net,base+elo
+2024,14,Belgian Grand Prix,spa,validation,1,1,"VER, HAM, PER","VER, LEC, PER","HAM, PIA, LEC",logistic elastic net,base+elo
+2024,15,Dutch Grand Prix,zandvoort,validation,2,2,"NOR, VER, PIA","NOR, VER, PIA","NOR, VER, LEC",logistic elastic net,base+elo
+2024,16,Italian Grand Prix,monza,validation,3,2,"NOR, PIA, LEC","NOR, PIA, RUS","LEC, PIA, NOR",logistic elastic net,base+elo
+2024,17,Azerbaijan Grand Prix,baku,validation,2,2,"LEC, PIA, SAI","LEC, PIA, SAI","PIA, LEC, RUS",logistic elastic net,base+elo
+2024,18,Singapore Grand Prix,marina_bay,validation,2,2,"NOR, VER, HAM","NOR, VER, HAM","NOR, VER, PIA",logistic elastic net,base+elo
+2024,19,United States Grand Prix,americas,validation,2,2,"NOR, VER, SAI","NOR, VER, SAI","LEC, SAI, VER",logistic elastic net,base+elo
+2024,20,Mexico City Grand Prix,rodriguez,validation,2,2,"VER, SAI, NOR","SAI, VER, NOR","SAI, NOR, LEC",logistic elastic net,base+elo
+2024,21,São Paulo Grand Prix,interlagos,validation,0,0,"NOR, RUS, LEC","NOR, RUS, TSU","VER, OCO, GAS",logistic elastic net,base+elo
+2024,22,Las Vegas Grand Prix,vegas,validation,2,2,"RUS, SAI, VER","RUS, SAI, GAS","RUS, HAM, SAI",logistic elastic net,base+elo
+2024,23,Qatar Grand Prix,losail,validation,1,1,"VER, NOR, RUS","VER, RUS, NOR","VER, LEC, PIA",logistic elastic net,base+elo
+2024,24,Abu Dhabi Grand Prix,yas_marina,validation,2,2,"NOR, PIA, SAI","NOR, PIA, SAI","NOR, SAI, LEC",logistic elastic net,base+elo
+2025,1,Australian Grand Prix,albert_park,test,2,2,"NOR, PIA, VER","NOR, PIA, VER","NOR, VER, RUS",logistic elastic net,base+elo
+2025,2,Chinese Grand Prix,shanghai,test,3,3,"PIA, RUS, NOR","PIA, RUS, NOR","PIA, NOR, RUS",logistic elastic net,base+elo
+2025,3,Japanese Grand Prix,suzuka,test,3,3,"VER, NOR, PIA","VER, NOR, PIA","VER, NOR, PIA",logistic elastic net,base+elo
+2025,4,Bahrain Grand Prix,bahrain,test,2,2,"PIA, RUS, LEC","PIA, RUS, LEC","PIA, RUS, NOR",logistic elastic net,base+elo
+2025,5,Saudi Arabian Grand Prix,jeddah,test,2,2,"VER, PIA, RUS","VER, PIA, RUS","PIA, VER, LEC",logistic elastic net,base+elo
+2025,6,Miami Grand Prix,miami,test,2,1,"NOR, VER, PIA","VER, NOR, ANT","PIA, NOR, RUS",logistic elastic net,base+elo
+2025,7,Emilia Romagna Grand Prix,imola,test,3,2,"PIA, NOR, VER","PIA, VER, RUS","VER, NOR, PIA",logistic elastic net,base+elo
+2025,8,Monaco Grand Prix,monaco,test,3,3,"NOR, PIA, LEC","NOR, LEC, PIA","NOR, LEC, PIA",logistic elastic net,base+elo
+2025,9,Spanish Grand Prix,catalunya,test,2,2,"PIA, NOR, VER","PIA, NOR, VER","PIA, NOR, LEC",logistic elastic net,base+elo
+2025,10,Canadian Grand Prix,villeneuve,test,2,2,"PIA, RUS, VER","RUS, VER, PIA","RUS, VER, ANT",logistic elastic net,base+elo
+2025,11,Austrian Grand Prix,red_bull_ring,test,3,3,"NOR, LEC, PIA","NOR, LEC, PIA","NOR, PIA, LEC",logistic elastic net,base+elo
+2025,12,British Grand Prix,silverstone,test,2,2,"PIA, VER, NOR","VER, PIA, NOR","NOR, PIA, HUL",logistic elastic net,base+elo
+2025,13,Belgian Grand Prix,spa,test,3,3,"NOR, PIA, LEC","NOR, PIA, LEC","PIA, NOR, LEC",logistic elastic net,base+elo
+2025,14,Hungarian Grand Prix,hungaroring,test,2,2,"LEC, PIA, NOR","LEC, PIA, NOR","NOR, PIA, RUS",logistic elastic net,base+elo
+2025,15,Dutch Grand Prix,zandvoort,test,2,2,"PIA, NOR, VER","PIA, NOR, VER","PIA, VER, HAD",logistic elastic net,base+elo
+2025,16,Italian Grand Prix,monza,test,3,3,"NOR, PIA, VER","VER, NOR, PIA","VER, NOR, PIA",logistic elastic net,base+elo
+2025,17,Azerbaijan Grand Prix,baku,test,1,2,"VER, NOR, PIA","VER, SAI, LAW","VER, RUS, SAI",logistic elastic net,base+elo
+2025,18,Singapore Grand Prix,marina_bay,test,2,2,"RUS, VER, PIA","RUS, VER, PIA","RUS, VER, NOR",logistic elastic net,base+elo
+2025,19,United States Grand Prix,americas,test,2,3,"VER, NOR, RUS","VER, NOR, LEC","VER, NOR, LEC",logistic elastic net,base+elo
+2025,20,Mexico City Grand Prix,rodriguez,test,3,2,"NOR, VER, LEC","NOR, LEC, HAM","NOR, LEC, VER",logistic elastic net,base+elo
+2025,21,São Paulo Grand Prix,interlagos,test,1,2,"NOR, LEC, PIA","NOR, ANT, LEC","NOR, ANT, VER",logistic elastic net,base+elo
+2025,22,Las Vegas Grand Prix,vegas,test,2,1,"NOR, VER, RUS","NOR, VER, SAI","VER, RUS, ANT",logistic elastic net,base+elo
+2025,23,Qatar Grand Prix,losail,test,2,2,"PIA, NOR, VER","PIA, NOR, VER","VER, PIA, SAI",logistic elastic net,base+elo
+2025,24,Abu Dhabi Grand Prix,yas_marina,test,3,3,"VER, NOR, PIA","VER, NOR, PIA","VER, PIA, NOR",logistic elastic net,base+elo
+2026,1,Australian Grand Prix,albert_park,test,2,2,"RUS, ANT, PIA","RUS, ANT, HAD","RUS, ANT, LEC",logistic elastic net,base+elo
+2026,2,Chinese Grand Prix,shanghai,test,3,3,"ANT, RUS, HAM","ANT, RUS, HAM","ANT, RUS, HAM",logistic elastic net,base+elo
+2026,3,Japanese Grand Prix,suzuka,test,2,2,"ANT, RUS, LEC","ANT, RUS, PIA","ANT, PIA, LEC",logistic elastic net,base+elo
+2026,4,Miami Grand Prix,miami,test,1,1,"ANT, LEC, RUS","ANT, VER, LEC","ANT, NOR, PIA",logistic elastic net,base+elo
+2026,5,Canadian Grand Prix,villeneuve,test,1,1,"RUS, ANT, NOR","RUS, ANT, NOR","ANT, HAM, VER",logistic elastic net,base+elo
+2026,6,Monaco Grand Prix,monaco,test,2,2,"ANT, HAM, LEC","ANT, VER, HAM","ANT, HAM, HAD",logistic elastic net,base+elo
+2026,7,Spanish Grand Prix,catalunya,test,2,2,"RUS, HAM, ANT","RUS, HAM, ANT","HAM, RUS, NOR",logistic elastic net,base+elo
+2026,8,Austrian Grand Prix,red_bull_ring,test,1,1,"RUS, LEC, HAM","RUS, LEC, HAM","RUS, VER, ANT",logistic elastic net,base+elo
+2026,9,British Grand Prix,silverstone,test,2,2,"ANT, LEC, HAM","ANT, LEC, HAM","LEC, RUS, HAM",logistic elastic net,base+elo
+2026,10,Belgian Grand Prix,spa,test,2,2,"ANT, VER, RUS","ANT, VER, NOR","ANT, LEC, VER",logistic elastic net,base+elo
+2026,11,Hungarian Grand Prix,hungaroring,test,1,1,"NOR, HAM, LEC","NOR, HAM, LEC","NOR, VER, ANT",logistic elastic net,base+elo
+2026,12,Dutch Grand Prix,zandvoort,test,2,3,"NOR, RUS, PIA","NOR, RUS, ANT","NOR, ANT, RUS",logistic elastic net,base+elo
+2026,13,Italian Grand Prix,monza,test,1,1,"RUS, LEC, PIA","GAS, RUS, PIA","ANT, RUS, VER",logistic elastic net,base+elo
+2026,14,Madrid Grand Prix,madring,test,2,3,"NOR, ANT, HAM","NOR, ANT, VER","ANT, VER, NOR",logistic elastic net,base+elo
+2026,15,Azerbaijan Grand Prix,baku,test,1,1,"RUS, LEC, PIA","RUS, LEC, PIA","RUS, VER, HAD",logistic elastic net,base+elo
+2026,16,Malaysian Grand Prix,kuala_lumpur,test,3,2,"VER, ANT, HAM","VER, HAM, HAD","VER, ANT, HAM",logistic elastic net,base+elo
